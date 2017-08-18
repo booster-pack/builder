@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-config-prettier"
+  ],
+  "no-string-literal": false
+}
