@@ -1,7 +1,7 @@
 {
-  "name": "builder",
+  "name": "@booster-pack/builder",
   "version": "0.0.1",
-  "description": "builder",
+  "description": "@booster-pack/builder",
   "license": "MIT",
   "repository": "https://github.com/booster-pack/builder",
   "author": {
