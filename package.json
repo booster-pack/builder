@@ -3,12 +3,11 @@
   "version": "0.0.1",
   "description": "@booster-pack/builder",
   "license": "MIT",
-  "repository": "https://github.com/booster-pack/builder",
-  "author": {
-    "name": "Matthew Harwood",
-    "email": "matthhar12@gmail.com",
-    "url": "www.morningharwood.com"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booster-pack/builder.git"
   },
+  "author": "Matthew Harwood <matthhar12@gmail.com> (www.morningharwood.com)",
   "keywords": [
     "angular",
     "angular2",
@@ -66,5 +65,12 @@
       "tsx",
       "js"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/booster-pack/builder/issues"
+  },
+  "homepage": "https://github.com/booster-pack/builder#readme",
+  "directories": {
+    "lib": "lib"
   }
 }
